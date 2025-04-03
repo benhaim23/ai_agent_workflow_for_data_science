@@ -1,0 +1,15 @@
+openpyxl
+langchain
+langchain_community
+langchain_openai
+langchain_experimental
+langgraph >= 0.2.74
+openai
+pandas
+sqlalchemy
+numpy
+plotly
+streamlit
+scikit-learn
+xgboost
+psutil
